@@ -16,8 +16,8 @@ public class App
 {
     public static void main( String[] args)
     {
-        String json = "";
 
+        String json = "";
         try {
             BufferedReader lectorJson = new BufferedReader(new FileReader("json1.json"));
 
